@@ -1,0 +1,5 @@
+CF_ACCOUNT_TAG="You Cloudflare Account ID. See https://developers.cloudflare.com/fundamentals/setup/find-account-and-zone-ids/"
+CF_TOKEN="API token for Terraform (scoped to Zero Trust Edit)"
+
+IPV4_EGRESS_ADDRESS="192.0.2.0" # Your Dedicated IPv4 Egress IP
+IPV6_EGRESS_ADDRESS="2001:DB8::/32" Your Dedicated IPv6 Egress IP
